@@ -6,3 +6,4 @@ public class BasicVariablesInitialization {
         System.out.println(first + "\n" + second + "\n" + third);
     }
 }
+//1
